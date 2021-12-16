@@ -1,0 +1,14 @@
+---
+title: "Assessment"
+author: "Angelina Navitskaya, s4647285"
+date: "14/12/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# **RMarkdown Editing**
+
+[***RMarkdown***](https://rmarkdown.rstudio.com/lesson-8.html) represents *an unified authoring framework for data science, combining code, its results, and user's prose commentary*. ***RMarkdown*** documents are written in an easy-to-write plain text format and contain chunks of embedded R code. Documents are fully reproducible and support dozens of output formats including PDFs, Word files, slideshows, and more.
